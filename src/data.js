@@ -10,7 +10,7 @@ export const data = [
       "Cuál de estos cuerpos celestes no es una luna del planeta Júpiter?",
     choices: ["Europa", "Ganimedes", "Deimos", "Tritón"],
     answer: "Deimos",
-    src: "https://images4.alphacoders.com/936/thumb-1920-936378.jpg",
+    src: "assets/descarga.jpg",
   },
   {
     question:
@@ -103,7 +103,7 @@ export const data = [
   {
    question: "Que pais fue el primero en enviar un hombre al espacio",
     choices: ["Rusia", "Estados Unidos", "China", "Corea Del Sur"],
-    src:"/assets/atronaut.jpg",
     answer: "Rusia",
+    src:"/assets/atronaut.jpg",
   }
 ];
